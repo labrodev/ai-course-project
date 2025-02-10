@@ -15,7 +15,7 @@
 
 Репозиторій та код:
 
-Завантажити/скопіювати файл сourse.ipbn із GitHub-репозиторію.
+Завантажити/скопіювати файл сourse-project.ipynb із GitHub-репозиторію.
 Відкрити Notebook у Google Colab або запускати локально.
 
 Або відкрити напряму: https://colab.research.google.com/drive/1wwFZL319l10YKDknaHayYlMkwlJdu1yn?authuser=1
